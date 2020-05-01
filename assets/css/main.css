@@ -590,6 +590,12 @@ input {
   padding:0% 10% ;
 }
 
+.programme .intervenants {
+  padding:0% 10% ;
+  margin-top:40px;
+  text-align:center;
+}
+
 .programme .form_wrapper{
   text-align:center;
   margin: 40px auto;
