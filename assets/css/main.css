@@ -45,7 +45,7 @@ a {
 
 a:active,
 a:hover {
-  outline: 0; color:Black; font-weight:700;}
+  outline: 0; color:Black;}
 
 abbr[title] {
   border-bottom: 1px dotted; }
@@ -433,6 +433,9 @@ form button:hover {
     flex-direction:column;
     background-image:none;
   }
+  .manifeste .introduction {
+    height:auto;
+  }
 
 /************************* bienvenue ************************ */
 .bienvenue {
@@ -481,6 +484,27 @@ form button:hover {
   @media (max-width: 480px) {
     .web-design__wrapper {
     padding-left:0px;} }
+
+.manifeste .web-design {
+  background-color:white;
+}
+.manifeste .web-design p {
+  padding-bottom:20px;
+}
+
+.web-design a {
+  margin-top:40px;
+  padding:10px 40px;
+  background-color:#00b8ae;
+  color:white;
+  border:solid 10px #00b8ae;
+}
+
+.web-design a:hover {
+  background-color:white;
+  color:#00b8ae;
+  border:solid 10px #00b8ae;
+}
 
 /************************* articleintro ************************ */
 .articleintro {
