@@ -426,6 +426,13 @@ form button:hover {
     .introduction__arrow {
       animation: none; } }
 
+  .jour {
+    padding: 0 25%;
+  }
+  .jour .introduction {
+    flex-direction:column;
+    background-image:none;
+  }
 
 /************************* bienvenue ************************ */
 .bienvenue {
