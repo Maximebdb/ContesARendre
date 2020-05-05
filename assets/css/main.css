@@ -492,7 +492,7 @@ form button:hover {
   padding-bottom:20px;
 }
 
-.web-design a {
+.fakebouton a {
   margin-top:40px;
   padding:10px 40px;
   background-color:#00b8ae;
@@ -500,7 +500,7 @@ form button:hover {
   border:solid 10px #00b8ae;
 }
 
-.web-design a:hover {
+.fakebouton a:hover {
   background-color:white;
   color:#00b8ae;
   border:solid 10px #00b8ae;
